@@ -1,0 +1,59 @@
+.app-container {
+  padding: 20px;
+  font-family: sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.btn-submit{
+  padding: '8px 16px';
+  background: '#0070f3';
+  color: 'white';
+  border: 'none';
+  border-radius: '4px'; 
+  cursor: 'pointer';
+}
+
+.input-form{
+  border: '1px solid #ccc';
+  padding: '20px';
+  margin-bottom: '20px';
+  border-radius: '8px';
+}
+
+.subjects{
+  margin-bottom: 10px;
+}
+
+.week-no{
+  margin-bottom: 10px;
+}
+
+.advice-insights{
+  background: '#f0f7ff';
+  border: '1px solid #0070f3';
+  padding: '20px';
+  margin-bottom: '20px';
+  border-radius: '8px';
+}
+
+.progressds{
+  border: '1px solid #ccc';
+  padding: '20px';
+  border-radius: '8px';
+}
+
+.data-table{
+  width: '100%';
+  border-collapse: 'collapse';
+  margin-top: '10px'
+}
+
+tr{
+  background: '#eee';
+  text-align: 'left';
+}
+
+td{
+  padding: 8px;
+}
